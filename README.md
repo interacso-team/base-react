@@ -6,4 +6,4 @@ State: ReactN
 
 Linting: StandardJS
 
-Styles: React inline style + css3
+Styles: Styled Components

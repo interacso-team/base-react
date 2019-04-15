@@ -1,6 +1,6 @@
 import React, { useGlobal, useEffect } from 'reactn'
 import { init } from '/src/logic'
-import { Full } from '/src/elements/index'
+import { Full } from '/src/Elements'
 
 // Don't export as default so you can use this plugin:
 // https://marketplace.visualstudio.com/itemdetails?itemName=kidandcat.fimports
